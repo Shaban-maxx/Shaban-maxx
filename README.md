@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./matrix.svg.svg" width="100%" alt="Mohd Shaban Matrix">
-</div>
+
 
 
 <div align="center">
