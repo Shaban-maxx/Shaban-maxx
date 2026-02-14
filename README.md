@@ -33,10 +33,9 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaban-maxx&layout=compact&theme=dracula&hide_border=true" height="170" alt="Top Languages" />
-
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shaban-maxx&layout=compact&theme=dracula&hide_border=true" height="170" alt="Top Languages" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaban-maxx&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shaban-maxx&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
 </div>
 
 <br/>
