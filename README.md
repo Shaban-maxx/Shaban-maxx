@@ -15,9 +15,6 @@
 <h3 align="center"> 1st Year CSE Student @ IILM | Backend Developer • Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaban-maxx&label=Profile%20views&color=0e75b6&style=flat" alt="shaban-maxx" /> </p>
-- 🌱 I’m currently learning **TypeScript, Python**
-
-- 📫 How to reach me **nawaz234msn@gmail.com**
 
 
 
@@ -26,7 +23,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,python,django,git,github,vscode,figma&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,c,react,nodejs,express,java,mongodb,python,django,git,github,vscode&perline=7" />
   </a>
 </div>
 
@@ -37,6 +34,7 @@
 <div align="center">
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaban-maxx&layout=compact&theme=dracula&hide_border=true" height="170" alt="Top Languages" />
+
   
   <img src="https://github-readme-stats.vercel.app/api?username=Shaban-maxx&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
 </div>
@@ -52,7 +50,7 @@
 <h2 align="center">📫 Connect with Me</h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/(https://www.linkedin.com/feed/)" target="_blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/mohd-shaban-nawaz-5732193b0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:nawaz234msn@gmail.com">
