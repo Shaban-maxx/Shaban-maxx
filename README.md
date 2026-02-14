@@ -47,6 +47,13 @@
 
 <hr/>
 
+<h2 align="center">🐍 My Contribution Snake</h2>
+<div align="center">
+  <img src="https://github.com/Shaban-maxx/Shaban-maxx/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+<hr/>
+
 <h2 align="center">📫 Connect with Me</h2>
 
 <div align="center">
