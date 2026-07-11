@@ -12,7 +12,8 @@
 </p>
 <br><br>
 
-<h3 align="center"> 1st Year CSE Student @ IILM | Backend Developer • Problem Solver</h3>
+<h3 align="center"> 2nd Year CSE Student @ IILM | Python Developer •
+  AI & Data Science Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaban-maxx&label=Profile%20views&color=0e75b6&style=flat" alt="shaban-maxx" /> </p>
 
